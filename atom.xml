@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 742]]></title>
   <link href="http://apc.github.io/phil742/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil742/"/>
-  <updated>2013-09-01T21:45:39-04:00</updated>
+  <updated>2013-09-07T09:58:35-04:00</updated>
   <id>http://apc.github.io/phil742/</id>
   <author>
     <name><![CDATA[APC]]></name>
@@ -12,5 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Welcome]]></title>
+    <link href="http://apc.github.io/phil742/blog/2013/09/07/welcome/"/>
+    <updated>2013-09-07T09:41:00-04:00</updated>
+    <id>http://apc.github.io/phil742/blog/2013/09/07/welcome</id>
+    <content type="html"><![CDATA[<p>This is the website for PHIL 742 at <a href="http://www.umass.edu">UMass Amherst</a>. Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking <a href="http://perezcarballo.org/phil742">this website</a> regularly, as well as the <a href="http://perezcarballo.org/phil742/calendar">course calendar</a>.</p>
+
+<p>For your convenience, we have set up a mailing list for this course. We encourage you to subscribe in order to be notified of announcements on this site. Note, however, that you will only be notified of updates to the site once a day. (If there are no new updates on a given day, you will receive no emails.)</p>
+
+<!-- more -->
+
+
+<p>Of course, you do not need to be enrolled in the seminar in order to subscribe to the mailing list. If you think you might want to come to some of the meetings, you may want to subscribe to be notified of any relevant information. Alternatively, you can just check the website before coming to class.</p>
+
+<p>A draft of the <a href="">syllabus</a> is available as a .pdf <a href="">here</a>, including details about two exciting visits to the seminar.</p>
+]]></content>
+  </entry>
   
 </feed>
