@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 742]]></title>
   <link href="http://apc.github.io/phil742/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil742/"/>
-  <updated>2013-09-12T18:31:47-04:00</updated>
+  <updated>2013-09-14T10:41:55-04:00</updated>
   <id>http://apc.github.io/phil742/</id>
   <author>
     <name><![CDATA[APC]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Another reminder]]></title>
+    <link href="http://apc.github.io/phil742/blog/2013/09/14/another-reminder/"/>
+    <updated>2013-09-14T10:39:00-04:00</updated>
+    <id>http://apc.github.io/phil742/blog/2013/09/14/another-reminder</id>
+    <content type="html"><![CDATA[<p>On Monday (9/16) we will meet at an <a href="http://perezcarballo.org/phil742/blog/2013/09/09/its-official/">unusual time</a>: 12.30pm (instead of the usual 11am meeting time).</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reminder: Catherine Elgin]]></title>
